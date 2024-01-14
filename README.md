@@ -11,7 +11,7 @@
 <br>
 
 ### 블로그
-[https://velog.io/@woodylovescoding/posts](https://velog.io/@woodylovescoding/posts)
+[https://velog.io/@woodylovescoding](https://velog.io/@woodylovescoding/posts)
 <br>
 <br>
 
