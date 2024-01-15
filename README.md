@@ -164,13 +164,3 @@ Next 와 Typescript로 개발하였습니다.
 **Demo**
 <br>
 [https://woodylovesboota.xyz](https://woodylovesboota.xyz/)
-
-<br>
-
-**Demo**
-<br>
-[https://moonlit-cocada-e0073b.netlify.app/](https://moonlit-cocada-e0073b.netlify.app/)
-<br>
-
-
-
