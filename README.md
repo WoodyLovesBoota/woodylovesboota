@@ -164,31 +164,7 @@ Next 와 Typescript로 개발하였습니다.
 **Demo**
 <br>
 [https://woodylovesboota.xyz](https://woodylovesboota.xyz/)
-<br>
-<br>
-<br>
-### NETFLIX CLONE
 
-**프로젝트 설명**
-<br>
-
-Netflix clone은 Netflix의 웹 인터페이스를 클론 코딩하였습니다. 오픈 API를 사용해보는 경험과 더불어 사용자 인터페이스 디자인과 사용자 경험을 모방하여 실제 Netflix와 유사한 웹 애플리케이션을 구축하는 것이 프로젝트 목표였습니다. 
-
-![Project ScreenShot0](https://firebasestorage.googleapis.com/v0/b/travelgo-6fa6a.appspot.com/o/Netflix%2FNeflix%2003.webp?alt=media&token=64a97313-499d-4500-a911-05c77eea7d4b)
-
-<br>
-
-**기술 스택**
-<br>
-
-- `Typescript`, `React`
-- `Axios`, `React Query`, `Framer`
-- `Prettier`, `Netlify`
-<br>
-
-**Github**
-<br>
-[https://github.com/WoodyLovesBoota/Netflix__Clone](https://github.com/WoodyLovesBoota/Netflix__Clone)
 <br>
 
 **Demo**
