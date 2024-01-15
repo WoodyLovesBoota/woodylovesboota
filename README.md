@@ -82,7 +82,7 @@ TravelGo는 관광 명소 검색과 지도 표시 기능을 결합하여, 사용
 
 Alcoholism은 오픈 API를 활용하여 사용자에게 다양한 칵테일 레시피와 정보를 제공하는 웹 애플리케이션입니다. 사람들이 원하는 레시피를 쉽게 찾고, 자신만의 칵테일 레시피를 공유할 수 있는 플랫폼을 목표로 개발했습니다. 
 
-![Project ScreenShot0](https://firebasestorage.googleapis.com/v0/b/travelgo-6fa6a.appspot.com/o/Alcoholism%2Falcoholism%2001.webp?alt=media&token=b76858d5-76a4-497a-976f-4315da940925)
+![Project ScreenShot0](https://firebasestorage.googleapis.com/v0/b/travelgo-6fa6a.appspot.com/o/Alcoholism%2F1705337236756.webp?alt=media&token=6fa77493-d5d8-400f-814f-33d364f4df9e)
 
 <br>
 
